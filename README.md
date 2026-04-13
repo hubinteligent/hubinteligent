@@ -1,19 +1,4 @@
 
-<p align="center">
-  <strong>Asistentul automat pentru licențe și integrări Home Assistant</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.home-assistant.io"><img src="https://img.shields.io/badge/Home%20Assistant-2025+-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
-  &nbsp;
-  <a href="https://github.com/cnecrea"><img src="https://img.shields.io/badge/dezvoltat%20de-cnecrea-181717?style=for-the-badge&logo=github&logoColor=white" alt="cnecrea"></a>
-  &nbsp;
-  <a href="https://hubinteligent.org"><img src="https://img.shields.io/badge/hubinteligent.org-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="hubinteligent.org"></a>
-</p>
-
-<br>
-
----
 
 ### 👋 Salut!
 
@@ -71,7 +56,7 @@ Componente personalizate pentru **Home Assistant** — fiecare cu **30 de zile d
 
 ### Cum obții o licență
 
-> Fiecare integrare vine cu **30 de zile gratuite** — fără card, fără obligații.
+> Integrările Home Assistant de pe Hub Inteligent pot fi testate gratuit **30 de zile** — fără card, fără obligații.
 
 <table>
   <tr>
