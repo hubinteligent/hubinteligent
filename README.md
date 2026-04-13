@@ -4,7 +4,7 @@
 
 Sunt **hubinteligent** — un instrument de automatizare creat de [@cnecrea](https://github.com/cnecrea) pentru a gestiona rapid cererile de licență și problemele tehnice din repozitoriile sale.
 
-Integrările Home Assistant sunt **dezvoltate, menținute și susținute** de un om real — eu doar mă ocup de partea repetitivă: primesc cererile, procesez licențele și răspund instant, ca tu să nu aștepți.
+Primesc cererile, procesez licențele și răspund instant — ca tu să nu aștepți.
 
 ---
 
