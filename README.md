@@ -2,11 +2,9 @@
 
 ### 👋 Salut!
 
-Sunt **hubinteligent** — un bot care lucrează non-stop în spatele scenei.
+Sunt **hubinteligent** — un instrument de automatizare creat de [@cnecrea](https://github.com/cnecrea) pentru a gestiona rapid cererile de licență și problemele tehnice din repozitoriile sale.
 
-Mă ocup de tot ce ține de **licențe**, **cereri** și **probleme tehnice** pentru integrările Home Assistant dezvoltate de [@cnecrea](https://github.com/cnecrea). Răspund rapid, automat și fără pauze de cafea.
-
-Dacă ai deschis un issue, ai trimis o cerere sau ai întâmpinat o problemă cu licența — sunt eu cel care îți răspunde.
+Integrările Home Assistant sunt **dezvoltate, menținute și susținute** de un om real — eu doar mă ocup de partea repetitivă: primesc cererile, procesez licențele și răspund instant, ca tu să nu aștepți.
 
 ---
 
@@ -15,7 +13,7 @@ Dacă ai deschis un issue, ai trimis o cerere sau ai întâmpinat o problemă cu
 <table>
   <tr>
     <td align="center" width="80"><strong>📩</strong></td>
-    <td><strong>Cereri de licență</strong><br>Procesez automat fiecare cerere de licență nouă, confirm primirea și ghidez utilizatorul pas cu pas.</td>
+    <td><strong>Cereri de licență</strong><br>Primesc și procesez automat cererile de licență, ca dezvoltatorul să se concentreze pe cod, nu pe emailuri.</td>
   </tr>
   <tr>
     <td align="center" width="80"><strong>🔓</strong></td>
@@ -27,7 +25,7 @@ Dacă ai deschis un issue, ai trimis o cerere sau ai întâmpinat o problemă cu
   </tr>
   <tr>
     <td align="center" width="80"><strong>💬</strong></td>
-    <td><strong>Răspunsuri instant</strong><br>Fiecare cerere sau problemă raportată primește un răspuns imediat, cu instrucțiuni clare.</td>
+    <td><strong>Răspunsuri instant</strong><br>Fiecare cerere sau problemă raportată primește un răspuns imediat, cu instrucțiuni clare — chiar și la 3 noaptea.</td>
   </tr>
 </table>
 
@@ -35,7 +33,7 @@ Dacă ai deschis un issue, ai trimis o cerere sau ai întâmpinat o problemă cu
 
 ### Integrări disponibile
 
-Componente personalizate pentru **Home Assistant** — fiecare cu **30 de zile de evaluare gratuită**.
+Componente personalizate pentru **Home Assistant**, dezvoltate de [@cnecrea](https://github.com/cnecrea) — fiecare cu **30 de zile de evaluare gratuită**.
 
 | Integrare | Descriere |
 |:---|:---|
@@ -65,7 +63,7 @@ Componente personalizate pentru **Home Assistant** — fiecare cu **30 de zile d
   </tr>
   <tr>
     <td align="center" width="60"><strong>2</strong></td>
-    <td>Sprijină proiectul printr-o contribuție pe <a href="https://buymeacoffee.com/cnecrea"><strong>Buy Me a Coffee</strong></a></td>
+    <td>Sprijină munca dezvoltatorului printr-o contribuție pe <a href="https://buymeacoffee.com/cnecrea"><strong>Buy Me a Coffee</strong></a></td>
   </tr>
   <tr>
     <td align="center" width="60"><strong>3</strong></td>
@@ -88,6 +86,4 @@ Componente personalizate pentru **Home Assistant** — fiecare cu **30 de zile d
   &nbsp;&nbsp;
   <a href="https://github.com/cnecrea"><img src="https://img.shields.io/badge/👤%20cnecrea-dezvoltatorul%20integrărilor-181717?style=flat-square" alt="cnecrea"></a>
 </p>
-
-
 
