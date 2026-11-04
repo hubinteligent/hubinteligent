@@ -1,5 +1,4 @@
 
-
 ### 👋 Salut!
 
 Sunt **hubinteligent** — un instrument de automatizare creat de [@cnecrea](https://github.com/cnecrea) pentru a gestiona rapid cererile de licență și problemele tehnice din repozitoriile sale.
@@ -46,8 +45,12 @@ Componente personalizate pentru **Home Assistant**, dezvoltate de [@cnecrea](htt
 | [**E-bloc România**](https://github.com/cnecrea/e-bloc.ro) | Monitorizare cheltuieli și întreținere bloc |
 | [**Pago Plătește**](https://github.com/cnecrea/pagoplateste) | Facturi și plăți prin platforma Pago |
 | [**OPCOM România**](https://github.com/cnecrea/opcom) | Prețuri energie pe piața de zi înainte (PZU) |
-| [**eRovinieta**](https://github.com/cnecrea/erovinieta) | Verificare valabilitate rovinietă |
+| [**CNAIR eTOLL**](https://github.com/cnecrea/tollro) | Monitorizare roviniete, peaje, facturi și plăți prin noul sistem CNAIR eTOLL |
+| [**DIGI România**](https://github.com/cnecrea/digi) | Monitorizare informații și servicii din contul DIGI |
+| [**Curs BNR**](https://github.com/cnecrea/cursbnr) | Cursuri valutare publicate de Banca Națională a României |
+| [**SMS.to**](https://github.com/cnecrea/smsto) | Integrare serviciu SMS.to pentru trimiterea mesajelor SMS |
 | [**Vehicule**](https://github.com/cnecrea/vehicule) | Gestionare documente auto — RCA, ITP, CASCO |
+| [**Vehicule Card**](https://github.com/cnecrea/vehicule-card) | Card cu informații despre vehicule în Home Assistant |
 | [**Manager de flotă**](https://github.com/cnecrea/fleet) | Telemetrie și monitorizare flotă vehicule |
 
 ---
@@ -86,4 +89,3 @@ Componente personalizate pentru **Home Assistant**, dezvoltate de [@cnecrea](htt
   &nbsp;&nbsp;
   <a href="https://github.com/cnecrea"><img src="https://img.shields.io/badge/👤%20cnecrea-dezvoltatorul%20integrărilor-181717?style=flat-square" alt="cnecrea"></a>
 </p>
-
